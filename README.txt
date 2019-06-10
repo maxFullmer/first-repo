@@ -1,0 +1,2 @@
+This project is about learning how to use git via Git Bash and the code editor Visual Studio Code.
+It includes notes on what commands mean and how to push a git repository to GitHub, a web based application that helps develop many different types of applications (web, desktop, mobile, embedded system) through open source contribution.
