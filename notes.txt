@@ -2,9 +2,11 @@ git is a software used as a version control system (its like a diary or journal 
 Git Bash is another peice of software that has git but also converts command line code used for MAC/LINUX into code that works with Windows command line (command promt).
 
 git commands:
-git init
+git init <add link>
 git add
 git commit -m "message log entry"
+git push (final draft, be sure!)
 
-to download someone else's repository off GitHub is to "fork" it, aka it is cloned and a spot is created on the forking account in GitHub and can be/is downloaded locally.
-Instructions are on GitHub.
+To download someone else's repository off GitHub is to "fork" it, aka it is cloned and a spot is created on the forking account in GitHub and can be/is downloaded locally.
+Instructions are on GitHub on how to do this.
+
